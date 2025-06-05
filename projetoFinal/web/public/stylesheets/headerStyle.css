@@ -1,0 +1,16 @@
+header{
+  width: 100%;
+  margin-bottom: 40px;
+}
+.navbar-brand {
+  color: #200404 !important;
+}
+.nav-link {
+  color: #319868 !important;
+}
+.navbar {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+}
+

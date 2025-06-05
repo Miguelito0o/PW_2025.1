@@ -1,4 +1,18 @@
+header {
+  width: 100%;
+  margin-bottom: 20px;
+}
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #92BD81;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
 
 body {
   font: 15px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -8,7 +22,8 @@ body {
   min-height: 100vh;
   align-items: center;
   background: #E4FFCF;
-  margin: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 p {
